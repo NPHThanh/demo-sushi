@@ -59,7 +59,7 @@ p, h1, h2, h3, h4, h5, h6 {
 .header {
   height: 800px;
   color: #21243d;
-  background-image: url("/images/banner/banner.jpg");
+  background-image: url("./images/banner/banner.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -239,7 +239,7 @@ p, h1, h2, h3, h4, h5, h6 {
 .popular-menu {
   max-width: 100%;
   height: 800px;
-  background-image: url("/images/background2.gif");
+  background-image: url("./images/background2.gif");
   background-size: cover;
   color: white;
 }
@@ -320,7 +320,7 @@ p, h1, h2, h3, h4, h5, h6 {
   }
 }
 .introduce-item1 {
-  background-image: url("/images/bg3.gif");
+  background-image: url("./images/bg3.gif");
   background-size: cover;
   height: 800px;
   display: flex;
@@ -572,7 +572,7 @@ p, h1, h2, h3, h4, h5, h6 {
 .contact {
   max-width: 100%;
   height: 800px;
-  background-image: url("/images/bg7.gif");
+  background-image: url("./images/bg7.gif");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
