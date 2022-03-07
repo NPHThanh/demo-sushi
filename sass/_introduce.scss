@@ -1,5 +1,5 @@
 .introduce-item1{
-    background-image: url('./images/bg3.gif');
+    background-image: url('../images/bg3.gif');
     background-size: cover;
     height: 800px;
     display: flex;
@@ -36,7 +36,7 @@
 }
 
 .introduce-item2{
-    background-image: url('/images/bg4.gif');
+    background-image: url('../images/bg4.gif');
     background-size: cover;
     height: 800px;
     color: white;
@@ -75,7 +75,7 @@
 }
 
 .introduce-item3{
-    background-image: url('/images/bg5.gif');
+    background-image: url('../images/bg5.gif');
     background-size: cover;
     height: 800px;
     color: white;
@@ -104,7 +104,7 @@
 }
 
 .introduce-person{
-    background-image: url('/images/bg6.gif');
+    background-image: url('../images/bg6.gif');
     background-size: cover;
     background-position: center;
     background-attachment: local;

@@ -59,7 +59,7 @@ p, h1, h2, h3, h4, h5, h6 {
 .header {
   height: 800px;
   color: #21243d;
-  background-image: url("./images/banner/banner.jpg");
+  background-image: url("../images/banner/banner.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -320,7 +320,7 @@ p, h1, h2, h3, h4, h5, h6 {
   }
 }
 .introduce-item1 {
-  background-image: url("./images/bg3.gif");
+  background-image: url("../images/bg3.gif");
   background-size: cover;
   height: 800px;
   display: flex;
@@ -356,7 +356,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .introduce-item2 {
-  background-image: url("/images/bg4.gif");
+  background-image: url("../images/bg4.gif");
   background-size: cover;
   height: 800px;
   color: white;
@@ -394,7 +394,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .introduce-item3 {
-  background-image: url("/images/bg5.gif");
+  background-image: url("../images/bg5.gif");
   background-size: cover;
   height: 800px;
   color: white;
@@ -422,7 +422,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .introduce-person {
-  background-image: url("/images/bg6.gif");
+  background-image: url("../images/bg6.gif");
   background-size: cover;
   background-position: center;
   background-attachment: local;
@@ -572,7 +572,7 @@ p, h1, h2, h3, h4, h5, h6 {
 .contact {
   max-width: 100%;
   height: 800px;
-  background-image: url("./images/bg7.gif");
+  background-image: url("../images/bg7.gif");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
